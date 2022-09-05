@@ -1,0 +1,1 @@
+#File to house base version of image classification model using a custom CNN architecture
