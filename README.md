@@ -1,3 +1,3 @@
 # image-classification
 
-Image Classification using CNN encoder model
+Image Classification using multiple approaches on CIFAR100 dataset
